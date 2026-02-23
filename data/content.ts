@@ -36,7 +36,7 @@ export const content = {
         {
           company: "KCMS",
           period: "Out 2024 — Nov 2025",
-          role: "Analista de Suporte Técnico",
+          role: "Customer Success",
           tasks: [
             "Gestão ativa de carteira com 1.200+ clientes no CRM HubSpot",
             "Resolução de 125+ chamados/mês com foco em FCR e satisfação do cliente",
@@ -48,7 +48,7 @@ export const content = {
         {
           company: "MaxMicro Sorocaba",
           period: "Out 2021 — Out 2024",
-          role: "Suporte Técnico",
+          role: "Suporte Técnico & Customer Success",
           tasks: [
             "Suporte técnico remoto e presencial para 100+ empresas de múltiplos segmentos",
             "Diagnóstico e resolução de falhas em estações de trabalho e servidores",
@@ -90,7 +90,7 @@ export const content = {
       degree: "Análise e Desenvolvimento de Sistemas",
       school: "Anhembi Morumbi",
       period: "Out 2021 — Jun 2023",
-      courses: "HubSpot Academy — Customer Success (2026) · Service Hub Software (2026)",
+      courses: "HubSpot Academy — Customer Success (2026) · Service Hub Software (2026) · Origamid, CodeBoost, Rocketseat (Front-End)",
     },
     contact: {
       title: "Vamos conversar?",
@@ -140,7 +140,7 @@ export const content = {
         {
           company: "KCMS",
           period: "Oct 2024 — Nov 2025",
-          role: "Technical Support Analyst",
+          role: "Customer Success",
           tasks: [
             "Active portfolio management with 1,200+ clients in HubSpot CRM",
             "Resolved 125+ tickets/month focused on FCR and customer satisfaction",
@@ -152,7 +152,7 @@ export const content = {
         {
           company: "MaxMicro Sorocaba",
           period: "Oct 2021 — Oct 2024",
-          role: "Technical Support",
+          role: "Technical Support & Customer Success",
           tasks: [
             "Remote and on-site technical support for 100+ companies across multiple segments",
             "Diagnosed and resolved issues in workstations, servers, and peripherals",
@@ -194,7 +194,7 @@ export const content = {
       degree: "Systems Analysis and Development",
       school: "Anhembi Morumbi",
       period: "Oct 2021 — Jun 2023",
-      courses: "HubSpot Academy — Customer Success (2026) · Service Hub Software (2026)",
+      courses: "HubSpot Academy — Customer Success (2026) · Service Hub Software (2026) · Origamid, CodeBoost, Rocketseat (Front-End)",
     },
     contact: {
       title: "Let's talk?",
