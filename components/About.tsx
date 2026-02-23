@@ -127,7 +127,7 @@ export default function About() {
                 >
                   <div className="absolute inset-0 rounded-xl bg-gradient-to-br from-indigo/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                   <div className="relative">
-                    <div className="text-2xl md:text-3xl font-display font-extrabold bg-gradient-to-r from-indigo to-pink bg-clip-text text-transparent">
+                    <div className="text-xl md:text-2xl font-display font-extrabold whitespace-nowrap bg-gradient-to-r from-indigo to-pink bg-clip-text text-transparent">
                       {stat.value}
                     </div>
                     <div className="text-xs text-muted mt-1 font-body">
